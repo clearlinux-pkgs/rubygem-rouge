@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rouge
 Version  : 1.9.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rouge-1.9.0.gem
 Source0  : https://rubygems.org/downloads/rouge-1.9.0.gem
 Summary  : No detailed summary available
